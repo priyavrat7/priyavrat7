@@ -1,15 +1,136 @@
-# 💫 About Me:
-🔭 I’m currently working on full-stack development for the open-source LORIS clinical imaging platform and building scalable distributed architectures.<br>👯 I’m looking to collaborate on: open-source projects involving distributed systems, cloud-native backend services, and IoT/embedded innovations.<br>🤝 I’m looking for help with: advanced Kubernetes orchestration, setting up complex CI/CD pipelines, and mastering Infrastructure as Code (Terraform).<br>🌱 I’m currently learning: advanced cloud architecture optimization, scaling event-driven microservices, and French.<br>💬 Ask me about: Java, Spring Boot, Python, building RESTful APIs, and IoT platforms (Raspberry Pi, STM32, BLE, RTOS).<br>⚡ Fun fact: I've mentored and provided technical hardware/software guidance to over 700+ university students!<br>
+<h1 align="center">Priyavrat Dev Sharma</h1>
 
+<p align="center">
+Software Developer &nbsp;|&nbsp; Distributed Systems &amp; Networking &nbsp;|&nbsp; Applied ML<br/>
+MSc Electrical Engineering, McGill University
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyavrat7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=priyavrat7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyavrat7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="https://priyavrat7.github.io/MyGitPage/index.html"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/priyavrat-sharma-537b6113a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:priyavrat.sharma@mail.mcgill.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://ieeexplore.ieee.org/document/11162378"><img src="https://img.shields.io/badge/IEEE%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyavrat7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me
+
+- 🎓 **MSc Electrical Engineering** — McGill University (Graduate Excellence Award, CGPA 3.77/4.0)
+- 📄 Published researcher — routing optimization for collaborative UAV/IoT networks, [IEEE ICC 2025](https://ieeexplore.ieee.org/document/11162378)
+- 💼 Currently **Research Software Developer** at MCIN (McGill Centre for Integrative Neuroscience), building the open-source [LORIS](https://github.com/aces/Loris) clinical research platform
+- 🌐 Experience across **networking & routing protocols**, **distributed systems**, **embedded/IoT**, and **applied machine learning**
+- 🧑‍🏫 Mentored 700+ students in Java, C++, Python, Networking, ML & IoT
+- 📍 Based in Montreal, Canada — open to relocation
+
+---
+
+### Experience
+
+**Research Software Developer** — MCIN (McGill Centre for Integrative Neuroscience) · *Feb 2026 – Present*
+- Full-stack contributor to the LORIS open-source platform; modernized legacy jQuery components to React and engineered clinical instruments while ensuring compliance with privacy standards
+- Identified security vulnerabilities and functional defects for LORIS 29.0 via threat modeling (RBAC, session behavior) and SQL-based backend verification
+
+**Machine Learning Engineer** — Ericsson · *May 2025 – Aug 2025*
+- Developed a Django REST API for a distributed ML system with a frontend for topology configuration, dataset selection, real-time visualization, and progress tracking
+- Built a distributed ML system using DDP for multi-machine training and communication scheduling; implemented topology detection/optimization and I²C-based hardware monitoring for real-time node observability and telemetry
+- Built a real-time image streaming pipeline using Kafka, Redis, and JAMScript across edge devices, with automated testing integrated into CI/CD pipelines
+
+**Research & Teaching Assistant** — Advanced Networking Research Laboratory, McGill University · *Sept 2022 – Aug 2025*
+- Completed a Master's thesis on collaborative UAV network routing optimization: graph-based multi-hop routing in C++ using a modified Dijkstra's algorithm to solve the NP-hard Steiner Tree problem, achieving a 99% computation speedup with 14% deviation from optimal
+- Formulated wireless network routing as an Integer Linear Program with resource allocation constraints; designed heuristics for multi-source multi-destination path optimization with collision detection, channel scheduling, and dynamic topology management
+- Evaluated Layer 3 routing protocol behavior (AODV, DSDV, DSR) in the NS2 simulator, analyzing packet delivery ratios, convergence times, and routing table dynamics under varying conditions using TCL scripting
+- Provided technical guidance to 700+ students across Java, C++, Python, Networking, ML & IoT courses — code review, debugging, and defect-free programming practices
+
+**Embedded Engineer (Software)** — Jaipur Medical System · *Jul 2019 – Jun 2022*
+- Developed a document management platform using Spring Boot with a RESTful API backend and microservices architecture, PostgreSQL via JDBC, Elasticsearch for full-text search, document versioning, RBAC with JWT authentication, and Docker containerization
+- Developed a machine learning model to predict project acceptance rates via text analysis on historical technical specifications, improving decision-making efficiency by 25% in regulatory approvals
+
+---
+
+### Publication
+
+**"Optimizing Collaborative UAV(Drone) Networks for Data Efficiency in IoT Ecosystems"**
+[IEEE ICC 2025](https://ieeexplore.ieee.org/document/11162378)
+
+---
+
+### Education
+
+| Degree | Institution | Period |
+|---|---|---|
+| MSc, Electrical Engineering (Graduate Excellence Award) | McGill University, Canada | Sept 2022 – Aug 2025 |
+| Post-Graduate Certification, Internet of Things (IoT) | BITS Pilani, India | Jul 2018 – Jun 2019 |
+| BE, Electrical and Electronics | BIT Mesra, Ranchi, India | Jul 2013 – Jun 2017 |
+
+---
+
+### Tech Stack
+
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Networking & Systems**
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4A5568?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RTOS](https://img.shields.io/badge/RTOS-4A5568?style=flat-square)
+
+**Backend & Frameworks**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Data & ML**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| [Distributed Task Execution Framework](https://github.com/priyavrat7/Distributed-Task-Execution-Framework) | Java master-worker system using Apache ZooKeeper, ZNode watchers & async callbacks for fault-tolerant load balancing |
+| [Paxos Distributed Orders](https://github.com/priyavrat7/Paxos_Distributed_Orders) | Paxos consensus algorithm in Java for total-order broadcast with majority-based fault tolerance |
+| [AI SaaS Prototype](https://github.com/priyavrat7/AI-SaaS-Prototype) | Full-stack AI platform — React/Next.js frontend, FastAPI + SQLModel backend, LangChain + OpenAI integration |
+| [AI Medical App](https://github.com/priyavrat7/AI-at-the-Edge-of-Innovation) | Edge-computing AI prototype built at the TELUS "AI at the Edge of Innovation" Hackathon |
+| [IoT Firmware for Health Monitoring](https://github.com/priyavrat7/IoT-Firmware-for-Health-Monitoring-System) | C firmware for ESP32 with BLE communication and low-power optimization |
+| [Health Monitoring System](https://github.com/priyavrat7/Health-Monitoring-System) | Java Android IoT app with BLE sensors and Firebase Firestore backend |
+| [Stock Portfolio Manager](https://github.com/priyavrat7/Stock-Portfolio-Manager) | Java/JavaFX desktop trading platform, PostgreSQL via JDBC, Dockerized |
+
+*See the [portfolio](https://priyavrat7.github.io/MyGitPage/index.html) for the full project list.*
+
+---
+
+### Certifications
+
+- [Internet of Things (IoT)](https://drive.google.com/file/d/1X6Q8Iir_VT6OlRVYiaHYaCc7vX07QCUe/view?usp=drive_link)
+- [Algorithmic Toolbox — University of California](https://www.coursera.org/account/accomplishments/verify/HECZZ86X9K9A?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=link)
+- [Quebec Scientific Entrepreneurship Program — Fonds de recherche du Québec](https://drive.google.com/file/d/1pF6cRxkK_4hsys-BbxB_pXOX-lYSbS-l/view)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=priyavrat7&theme=dark&hide_border=true&count_private=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyavrat7&theme=dark&hide_border=true&layout=compact" height="165"/>
+</p>
