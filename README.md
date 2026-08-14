@@ -19,6 +19,7 @@ MSc Electrical Engineering, McGill University
 - 🎓 **MSc Electrical Engineering** — McGill University (Graduate Excellence Award, CGPA 3.77/4.0)
 - 📄 Published researcher — routing optimization for collaborative UAV/IoT networks, [IEEE ICC 2025](https://ieeexplore.ieee.org/document/11162378)
 - 💼 Currently **Research Software Developer** at MCIN (McGill Centre for Integrative Neuroscience), building the open-source [LORIS](https://github.com/aces/Loris) clinical research platform
+- 🔐 Reported 2 credited GitHub Security Advisories in LORIS and contributed merged pull requests to Cisco's open-source repositories
 - 🌐 Experience across **networking & routing protocols**, **distributed systems**, **embedded/IoT**, and **applied machine learning**
 - 🧑‍🏫 Mentored 700+ students in Java, C++, Python, Networking, ML & IoT
 - 📍 Based in Montreal, Canada — open to relocation
@@ -29,7 +30,8 @@ MSc Electrical Engineering, McGill University
 
 **Research Software Developer** — MCIN (McGill Centre for Integrative Neuroscience) · *Feb 2026 – Present*
 - Full-stack contributor to the LORIS open-source platform; modernized legacy jQuery components to React and engineered clinical instruments while ensuring compliance with privacy standards
-- Identified security vulnerabilities and functional defects for LORIS 29.0 via threat modeling (RBAC, session behavior) and SQL-based backend verification
+- Conducted RBAC and session-management threat modeling across the codebase, informing two accepted, credited security advisories (CWE-862, CWE-639), and ran systematic release QA for LORIS 29.0 across 15+ modules
+- Authored idempotent SQL migration scripts for project/cohort initialization and built foreign-key-aware candidate data deletion tooling preserving referential integrity across the relational schema
 
 **Machine Learning Engineer** — Ericsson · *May 2025 – Aug 2025*
 - Developed a Django REST API for a distributed ML system with a frontend for topology configuration, dataset selection, real-time visualization, and progress tracking
@@ -45,6 +47,13 @@ MSc Electrical Engineering, McGill University
 **Embedded Engineer (Software)** — Jaipur Medical System · *Jul 2019 – Jun 2022*
 - Developed a document management platform using Spring Boot with a RESTful API backend and microservices architecture, PostgreSQL via JDBC, Elasticsearch for full-text search, document versioning, RBAC with JWT authentication, and Docker containerization
 - Developed a machine learning model to predict project acceptance rates via text analysis on historical technical specifications, improving decision-making efficiency by 25% in regulatory approvals
+
+---
+
+### Open Source Contributions
+
+- **LORIS** — Reported two accepted, credited GitHub Security Advisories (CWE-862 authorization bypass, CVSS 5.4; CWE-639 IDOR, CVSS 4.3); merged 29/35 PRs (83%); filed 20+ defects in release QA
+- **Cisco** — Contributed pull requests (Go, Python) to `k8s-objectmatcher`, `genielibs`, and `ai-defense-python-sdk`, including a merged `pyasn1` fix remediating 3 CVEs and a Kubernetes StatefulSet diff bug fix
 
 ---
 
