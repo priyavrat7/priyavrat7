@@ -7,10 +7,10 @@ Open to roles across Canada · Authorized to work in Canada, no sponsorship requ
 </p>
 
 <p align="center">
-<a href="https://priyavrat7.github.io/MyGitPage/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/priyavrat-sharma-537b6113a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:priyavrat.sharma@mail.mcgill.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://ieeexplore.ieee.org/document/11162378"><img src="https://img.shields.io/badge/IEEE%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE publication" /></a>
+<a href="https://priyavrat7.github.io/MyGitPage/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/priyavrat-sharma-537b6113a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:priyavrat.sharma@mail.mcgill.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ieeexplore.ieee.org/document/11162378"><img src="https://img.shields.io/badge/IEEE%20Paper-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE publication" /></a>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Full log: [portfolio → Open Source](https://priyavrat7.github.io/MyGitPage/ope
 </details>
 
 <details>
-<summary><b>Freelance Full-Stack Developer</b> · Hospiaid · Oct 2026 to present</summary>
+<summary><b>Freelance Full-Stack Developer</b> · Hospiaid · Jan 2023 to present</summary>
 
 - Designed, built, deployed and maintain the website and admin panel at [hospiaid.com](https://hospiaid.com/) in Laravel (PHP 8.3), MySQL and Bootstrap 5.
 - Product catalogue, gallery, certificates, testimonials and enquiry forms with email notifications and recorded consent, with automated tests, Docker and scripted deployment.
