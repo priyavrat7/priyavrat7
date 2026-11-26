@@ -71,7 +71,8 @@ Full log: [portfolio → Open Source](https://priyavrat7.github.io/MyGitPage/ope
 <details>
 <summary><b>Freelance Full-Stack Developer</b> · Hospiaid · Jan 2023 to present</summary>
 
-- Designed, built, deployed and maintain the website and admin panel at [hospiaid.com](https://hospiaid.com/) in Laravel (PHP 8.3), MySQL and Bootstrap 5.
+- Built the company's first website and have maintained it since January 2023.
+- Rebuilt it in 2026 as a new website and admin panel at [hospiaid.com](https://hospiaid.com/) in Laravel (PHP 8.3), MySQL and Bootstrap 5, which I deployed and continue to maintain.
 - Product catalogue, gallery, certificates, testimonials and enquiry forms with email notifications and recorded consent, with automated tests, Docker and scripted deployment.
 
 </details>
