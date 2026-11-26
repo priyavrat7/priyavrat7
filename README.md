@@ -7,10 +7,10 @@ Open to roles across Canada · Authorized to work in Canada, no sponsorship requ
 </p>
 
 <p align="center">
-<a href="https://priyavrat7.github.io/MyGitPage/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/priyavrat-sharma-537b6113a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:priyavrat.sharma@mail.mcgill.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://ieeexplore.ieee.org/document/11162378"><img src="https://img.shields.io/badge/IEEE%20Paper-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE publication" /></a>
+<a href="https://priyavrat7.github.io/MyGitPage/"><img src="assets/badge-portfolio.svg" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/priyavrat-sharma-537b6113a/"><img src="assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:priyavrat.sharma@mail.mcgill.ca"><img src="assets/badge-email.svg" alt="Email" /></a>
+<a href="https://ieeexplore.ieee.org/document/11162378"><img src="assets/badge-ieee.svg" alt="IEEE publication" /></a>
 </p>
 
 ---
